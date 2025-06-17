@@ -132,15 +132,7 @@ export default function Component() {
         </div>
       </section>
 
-      {/* "Get Your Project Right" Section */}
-      <section className="py-16 px-4 md:px-6 text-center">
-        <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-          Get Your Project Right
-          <br />
-          The First Time
-        </h2>
-        <div className="w-24 h-1.5 bg-red-500 mx-auto" />
-      </section>
+    
     </div>
   )
 }
